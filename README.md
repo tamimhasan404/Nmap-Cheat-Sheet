@@ -1,1 +1,1 @@
-# Nmap-Cheet-Sheet
+# Nmap-Cheat-Sheet
