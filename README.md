@@ -14,3 +14,7 @@ Nmap provides a number of features for probing computer networks, including host
 - Version detection – Interrogating network services on remote devices to determine application name and version number.
 - TCP/IP stack fingerprinting – Determining the operating system and hardware characteristics of network devices based on observations of network activity of said devices.
 - Scriptable interaction with the target – using Nmap Scripting Engine(NSE) and Lua programming language.
+
+
+
+ [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ECuqb5Tv9qI/0.jpg)](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
